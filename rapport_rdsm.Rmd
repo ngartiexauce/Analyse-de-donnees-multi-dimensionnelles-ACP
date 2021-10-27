@@ -3,7 +3,6 @@ title: "Projet RDSM"
 author: "Luweh Adjim Ngarti Exaucé & Laamoumri Yassine & Agbo Merveille"
 date: "28/12/2020"
 output: html_document
----
 
 ```{r setup, include=FALSE, warning=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
